@@ -1,0 +1,1 @@
+Node = Struct.new(:value, :parent, :left_child, :right_child)
